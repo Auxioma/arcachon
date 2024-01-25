@@ -25,4 +25,17 @@ header, footer {
 }
 .splide__arrow {
     background-color: #E99D00!important;
+}*
+
+.btn-simulateur {
+    background-color: #E99D00;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 20px;
+    width: 100%;
 }
