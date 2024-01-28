@@ -37,7 +37,7 @@ class PHPMailer
      * Email priority.
      * Options: null (default), 1 = High, 3 = Normal, 5 = low.
      * When null, the header is not set at all.
-     * @var integer 
+     * @var integer
      */
     public $Priority = null;
 
